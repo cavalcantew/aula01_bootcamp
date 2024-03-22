@@ -1,1 +1,1 @@
-print("Hello jornada")
+print(input("Digite seu nome: "))
